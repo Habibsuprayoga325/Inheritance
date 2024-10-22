@@ -127,4 +127,5 @@ Berikut adalah penjelasan implementasinya :
   Berikut adalah Hasil dari code program diatas :
   ![alt text](https://github.com/Habibsuprayoga325/Inheritance/blob/main/ss1.png?raw=true)
 ![alt text](https://github.com/Habibsuprayoga325/Inheritance/blob/main/ss2.png?raw=true)
- ![alt text](https://github.com/Habibsuprayoga325/Inheritance/blob/main/ss1.png?raw=true)
+ ![alt text](https://github.com/Habibsuprayoga325/Inheritance/blob/main/ss3.png?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/Inheritance/blob/main/ss4.png?raw=true)
